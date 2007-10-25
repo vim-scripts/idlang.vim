@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2052
+
+idlang.vim provides basic syntax support for IDL 7.0, it is based on the syntax file  included in vim-7.1.tar.bz2.
