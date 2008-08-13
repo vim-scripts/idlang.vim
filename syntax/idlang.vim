@@ -240,6 +240,7 @@ syn keyword idlangRoutine SHMUNMAP SHMVAR SIMPLEX SKIP_LUN SLICER
 syn keyword idlangRoutine STARTUP_PREFS STR_SEP TIFF_DUMP TIFF_WRITE
 syn keyword idlangRoutine TOC TRUNCATE_LUN UNSHARP_MASK VARIABLE_DECL
 syn keyword idlangRoutine WAV_PWRSPEC WIDED WRITE_GIF
+syn keyword idlangRoutine GET_LOGIN_INFO MAKE_RT ROUTINE_FILEPATH
 
 " Define the default highlighting.
 " For version 5.7 and earlier: only when not done already
